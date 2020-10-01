@@ -18,6 +18,7 @@ p {
   color: white; }
 
 header {
+  overflow-y: hidden;
   background: #eff5f4;
   height: 100vh; }
 
