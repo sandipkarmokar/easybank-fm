@@ -11,8 +11,9 @@ p{
     color:hsl(233, 8%, 62%);
 }
 .btn{
+    cursor:pointer;
     display: inline-block;
-    padding:1em 2em;
+    padding:.9em 2em;
     background: linear-gradient(90deg, rgba(83,240,124,1) 2%, rgba(157,166,159,1) 33%, rgba(143,182,193,1) 65%, rgba(50,172,226,1) 100%);
     border-radius: 40px;
     color:white;
