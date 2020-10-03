@@ -25,7 +25,8 @@ header {
 
 header nav {
   background: white;
-  padding: 0.5em .2em; }
+  padding: 0.5em .2em;
+  box-shadow: 0 100px 80px rgba(0, 0, 0, 0.07); }
 
 header nav .wrapper {
   margin: 0 auto;
@@ -51,7 +52,7 @@ header nav .wrapper .close {
 header nav .wrapper .navigation {
   visibility: hidden;
   display: none;
-  position: fixed;
+  position: absolute;
   background: white;
   z-index: 3;
   top: 3em;
